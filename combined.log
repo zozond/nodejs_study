@@ -1,0 +1,242 @@
+{"message":"hello","level":"info"}
+{"message":"GET /abcd","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /favicon.ico","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyAdmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /database/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin1/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin3/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin4/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin5/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin1/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin2/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin3/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin4/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin5/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/dbadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/sqlmanager/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/mysqlmanager/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /2phpmyadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmy/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phppma/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /myadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /shopdb/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /MyAdmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /program/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /dbadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/phpmyadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/phpMyAdmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sqlmanager/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysqlmanager/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /php-myadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmy-admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysqladmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql-admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /admin/phpmyadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /admin/phpMyAdmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /admin/sysadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /admin/sqladmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /admin/db/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /admin/web/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /admin/pMA/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/pma/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/db/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/web/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /mysql/pMA/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/phpmanager/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/php-myadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/phpmy-admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/sql/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/myadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/webadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/sqlweb/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/websql/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/webdb/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/sqladmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/sql-admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/phpmyadmin2/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/phpMyAdmin2/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /sql/phpMyAdmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/myadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/webadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/dbweb/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/websql/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/webdb/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/dbadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/db-admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/phpmyadmin3/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/phpMyAdmin3/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /db/phpMyAdmin-3/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /administrator/phpmyadmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /administrator/phpMyAdmin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /administrator/db/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /administrator/web/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /administrator/pma/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /administrator/PMA/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /administrator/admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin2/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin3/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin4/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpMyAdmin-3/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /php-my-admin/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2011/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2012/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2013/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2014/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2015/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2016/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2017/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2018/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2019/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /PMA2020/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2011/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2012/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2013/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2014/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2015/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2016/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2017/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2018/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2019/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /pma2020/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2011/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2012/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2013/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2014/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2015/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2016/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2017/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2018/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2019/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /phpmyadmin2020/index.php?lang=en","level":"error"}
+{"message":"hello","level":"info"}
+{"message":"GET /index.php?lang=en","level":"error"}
